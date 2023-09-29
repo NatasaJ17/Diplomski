@@ -1,0 +1,71 @@
+.bodyFont {
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    height: 100hv;
+    width: 100vw;
+}
+
+.headerText {
+    color: white;
+    display: inline-block;
+}
+
+.main {
+    height: 75vh;
+}
+
+.createButtons {
+    color: white;
+    background-color: orange;
+    height: 40px;
+    width: 130px;
+    border: 1px solid orange;
+    border-radius: 10px;
+}
+
+.createButtonsDiv {
+    float: right;
+    margin-right: 10px;
+}
+
+.mapContainer {
+    border: 1px solid white;
+    border-radius: 10%;
+    width: 80vw;
+    margin: auto;
+}
+
+.react-datepicker-popper {
+    z-index: 9999 !important;
+}
+
+.popupDiv {
+    padding: 20px;
+    width: 60vw;
+    margin: auto;
+}
+
+.objectPanel {
+    margin: 30px 5px;
+    padding: 5px;
+    display: inline-block;
+}
+
+.logoutButton {
+    color: rgb(218, 118, 37);
+    background-color: white;
+    height: 40px;
+    width: 90px;
+    border: 3px solid white;
+    border-radius: 10px;
+    float: right;
+}
+
+.leftPanel {
+    border-right: 1px solid orange;
+    border-bottom: 1px solid orange;
+    background-color: #f8f6f2;
+    display: inline-block;
+    height: auto;
+    width: 300px;
+    padding: 20px;
+}
